@@ -1,12 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img src="./logo.png" alt="Lan Nexus Logo" width="200"/>
+</div>
 
-<!--
+# Lan Nexus
 
-**Here are some ideas to get you started:**
+A cross-platform LAN game launcher that allows you to play games with your friends over a local network. This application consists of both a desktop client (Electron app) and a web server for game management.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Overview
+
+Lan Nexus is designed to facilitate LAN gaming by providing:
+- **Game Management**: Add, organize, and manage games from various sources (archives, Steam)
+- **Network Discovery**: Automatic server discovery on the local network
+- **Game Key Management**: Handle game keys for multiplayer sessions
+- **Script Automation**: Custom install, uninstall, and play scripts for games
+- **Web Interface**: Server-side web interface for game administration
+- **Auto-Updates**: Automatic client updates via GitHub releases
