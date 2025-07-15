@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="Lan Nexus Logo" width="300"/>
+  <img src="./logo.svg" alt="Lan Nexus Logo" width="300"/>
 </div>
 
 # Lan Nexus
