@@ -18,7 +18,7 @@ Lan Nexus is designed to facilitate LAN gaming by providing:
 
 ## Architecture
 
-### Client Application
+### [Client Application](https://github.com/Lan-Nexus/Client)
 - **Technology**: Electron + Vue 3 + TypeScript + Tailwind CSS
 - **Features**: 
   - Cross-platform desktop application (Windows, macOS, Linux)
@@ -27,7 +27,7 @@ Lan Nexus is designed to facilitate LAN gaming by providing:
   - Auto-update functionality
   - Game installation from archives
 
-### Server Application
+### [Server Application](https://github.com/Lan-Nexus/Server)
 - **Technology**: Node.js + Express + Vue 3 + TypeScript + MySQL
 - **Features**:
   - RESTful API for game management
